@@ -1,0 +1,39 @@
+<all>
+  <timetable>
+    <day>Чт</day>
+    <lesson1>
+      <format>Очно-дистанционный</format>
+      <location>Кронверкский пр., д.49, лит.А</location>
+      <parity>true</parity>
+      <room>304</room>
+      <subject>Программирование (лабораторная работа)</subject>
+      <teacher>Николаев Владимир Вячеславович</teacher>
+      <time>8:20-9:50</time>
+      <weeks>2</weeks>
+      <weeks>4</weeks>
+      <weeks>6</weeks>
+      <weeks>8</weeks>
+      <weeks>10</weeks>
+      <weeks>12</weeks>
+      <weeks>14</weeks>
+      <weeks>16</weeks>
+    </lesson1>
+    <lesson2>
+      <format>Очно-дистанционный</format>
+      <location>Кронверкский пр., д.49, лит.А</location>
+      <parity>true</parity>
+      <room>304</room>
+      <subject>Программирование (лабораторная работа)</subject>
+      <teacher>Николаев Владимир Вячеславович</teacher>
+      <time>10:00-11:30</time>
+      <weeks>2</weeks>
+      <weeks>4</weeks>
+      <weeks>6</weeks>
+      <weeks>8</weeks>
+      <weeks>10</weeks>
+      <weeks>12</weeks>
+      <weeks>14</weeks>
+      <weeks>16</weeks>
+    </lesson2>
+  </timetable>
+</all>
